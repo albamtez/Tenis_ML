@@ -1,3 +1,4 @@
+[![Instalación de dependencias](https://github.com/albamtez/Tenis_ML/actions/workflows/requirements.yml/badge.svg)](https://github.com/albamtez/Tenis_ML/actions/workflows/requirements.yml)
 ![Image](https://github.com/user-attachments/assets/7b5c6a1e-e93f-4caf-bae4-2aa1ba5c3098)
 # Tenis_ML
 Predicción de la duración de partidos de tenis con ML
